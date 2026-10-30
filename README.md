@@ -1,2 +1,2 @@
 # DS
-DS stands for Data Structure
+This repository stores my Data Structures (DS) modules and my practicum code.
