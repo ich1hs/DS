@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/M2 - DS/CLDS2/CLDS2.iml" filepath="$PROJECT_DIR$/M2 - DS/CLDS2/CLDS2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M3 - DS/CLDS3/CLDS3.iml" filepath="$PROJECT_DIR$/M3 - DS/CLDS3/CLDS3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M2 - DS/DMDS2/DMDS2.iml" filepath="$PROJECT_DIR$/M2 - DS/DMDS2/DMDS2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DS.iml" filepath="$PROJECT_DIR$/DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1 - DS/M1 - DS.iml" filepath="$PROJECT_DIR$/M1 - DS/M1 - DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M2 - DS/M2 - DS.iml" filepath="$PROJECT_DIR$/M2 - DS/M2 - DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M3 - DS/M3 - DS.iml" filepath="$PROJECT_DIR$/M3 - DS/M3 - DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tugas/tugas.iml" filepath="$PROJECT_DIR$/tugas/tugas.iml" />
+    </modules>
+  </component>
+</project>
